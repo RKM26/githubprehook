@@ -8,3 +8,4 @@ var c =7;
 var d = 8;
 var e = 9;
 var f =101;
+var g = '11';
