@@ -9,3 +9,4 @@ var d = 8;
 var e = 9;
 var f =101;
 var g = '11';
+var k = 9;
