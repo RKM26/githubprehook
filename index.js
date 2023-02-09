@@ -10,4 +10,4 @@ var e = 9;
 var f =101;
 var g = '11';
 var k = 12;
-var z = "12"
+console.log('posting');
